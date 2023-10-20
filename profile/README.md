@@ -1,4 +1,1 @@
-We are Team NSFW!
-
-There will be no Tentacle-Vore, sorry. \
-NSFW = Not a Signature-Forging Webservice
+We are a team of software developers at DHBW
